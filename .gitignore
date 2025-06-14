@@ -154,3 +154,14 @@ arch/arm/boot/dts/vendor
 #Ignoring Android.bp link file
 #
 Android.bp
+
+#
+# Extra Stuff
+#
+toolchain/
+AnyKernel3/config
+AnyKernel3/dtb
+AnyKernel3/dtbo.img
+AnyKernel3/Image
+AnyKernel3/modules/vendor/*
+AnyKernel3/*.zip
